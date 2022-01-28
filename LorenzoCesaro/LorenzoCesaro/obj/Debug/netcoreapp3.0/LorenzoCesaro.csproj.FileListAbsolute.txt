@@ -1,0 +1,11 @@
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\bin\Debug\netcoreapp3.0\LorenzoCesaro.exe
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\bin\Debug\netcoreapp3.0\LorenzoCesaro.deps.json
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\bin\Debug\netcoreapp3.0\LorenzoCesaro.runtimeconfig.json
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\bin\Debug\netcoreapp3.0\LorenzoCesaro.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\bin\Debug\netcoreapp3.0\LorenzoCesaro.dll
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\bin\Debug\netcoreapp3.0\LorenzoCesaro.pdb
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\obj\Debug\netcoreapp3.0\LorenzoCesaro.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\obj\Debug\netcoreapp3.0\LorenzoCesaro.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\obj\Debug\netcoreapp3.0\LorenzoCesaro.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\obj\Debug\netcoreapp3.0\LorenzoCesaro.dll
+C:\Users\Utente\Desktop\Cesarolorenzo\LorenzoCesaro\LorenzoCesaro\obj\Debug\netcoreapp3.0\LorenzoCesaro.pdb
